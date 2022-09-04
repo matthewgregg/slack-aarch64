@@ -1,0 +1,8 @@
+Package: slack-desktop
+Version: 1.0.0
+Recommends: pulseaudio | libasound2
+Section: misc
+Priority: optional
+Architecture: amd64
+Maintainer: Slack Technologies <feedback@slack.com>
+Description: Slack Desktop
