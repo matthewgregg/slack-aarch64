@@ -5,6 +5,7 @@ nativefier --platform linux \
            --icon "slack_1.0.0/usr/share/pixmaps/slack.png" \
            --icon-tray 'slack-tray.png' \
            --icon-status 'slack-status.png' \
+           --counter \
            --tray \
            --name Slack \
            --single-instance \
